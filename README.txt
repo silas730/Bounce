@@ -1,0 +1,1 @@
+Place images into the assets folder and watch them bounce around the screen. Supports .png and maybe others. The provided images are sprites from my senior project.
